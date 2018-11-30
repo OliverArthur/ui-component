@@ -1,12 +1,12 @@
 ---
-title: Layout & Elements
+title: Directives
 ---
 
 ::: danger
 Note: This page is currently under development.
 :::
 
-# Layout & Elements
+# Directives
 
 Vestibulum non cursus massa. Pellentesque quis leo at tellus aliquet porta.
 

@@ -1,12 +1,12 @@
 ---
-title: Layout & Elements
+title: Server side rendering
 ---
 
 ::: danger
 Note: This page is currently under development.
 :::
 
-# Layout & Elements
+# Server side rendering
 
 Vestibulum non cursus massa. Pellentesque quis leo at tellus aliquet porta.
 

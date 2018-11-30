@@ -14,7 +14,8 @@ module.exports = {
         children: [
           '/guide/',
           '/guide/how-it-works',
-          '/guide/supported-browsers'
+          '/guide/supported-browsers',
+          '/guide/style-guide'
         ]
       },
       {
@@ -25,10 +26,24 @@ module.exports = {
         ]
       },
       {
-        title: 'UI Components',
+        title: 'Components',
         collapsable: false,
         children: [
           '/components/button'
+        ]
+      },
+      {
+        title: 'Directives',
+        collapsable: false,
+        children: [
+          '/directives/'
+        ]
+      },
+      {
+        title: 'Server side rendering (SSR)',
+        collapsable: false,
+        children: [
+          '/ssr/'
         ]
       }
     ]
