@@ -12,8 +12,7 @@
     "test:unit": "vue-cli-service test:unit"
   },
   "dependencies": {
-    "vue": "2.5.17",
-    "zava-ui-toolkit": "https://s3-eu-west-1.amazonaws.com/repo.zavamed.com/npm/zava-ui-toolkit/1.20180831104625.0/zava-ui-toolkit.tgz"
+    "vue": "2.5.17"
   },
   "devDependencies": {
     "@babel/core": "7.1.6",
